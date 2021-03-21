@@ -4,7 +4,9 @@ export function Header() {
   return (
     <header className="header">
       <div>
-        <img src="/logo.svg" alt="to.do"/>
+        <img src="/todo5.svg" alt="to.do" />
+    
+         <img src="/logo.svg" alt="to.do"/>
       </div>
     </header>
   )
